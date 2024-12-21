@@ -1,0 +1,32 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+pubspec.lock
+
+# Build outputs
+/build/
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+
+# VS Code settings
+.vscode/
+
+# IntelliJ settings
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
